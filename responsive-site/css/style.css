@@ -1,0 +1,47 @@
+
+#header-nav {
+    border: 0;
+    border-radius: none;
+}
+.navbar-brand h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+    font-size: 1.5em;
+}
+.collapsed, .navbar-toggle {
+    background: #e7e7e7;
+}
+#nav-list a {
+    background: #fff;
+}
+#nav-list li {
+    border: 1px solid #e7e7e7;
+}
+#nav-list a {
+    text-align: center;
+}
+
+#nav-list li:last-child {
+    border-bottom: 2px solid #e7e7e7;
+}
+#nav-list a:hover {
+    background: #f1ccb8;
+}
+.navbar-nav  {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.container-fluid {
+    background: #f1ccb8;
+}
+ section div {
+     background-color: #b8f1ed;
+}
+p {
+    padding: 0 15px 15px;    
+}
+h3 {
+    padding-top: 20px;
+}
