@@ -1,0 +1,25 @@
+/* add your CSS here */
+#card {
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #ddd;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    background: #f1ccb8;
+    width: 300px;
+}
+.fact {
+    font-style: italic;
+}
+span {
+    font-weight: bold;
+}
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+.info {
+    border: 1px solid #aaa;
+    padding: 10px;
+    margin-top: 16px;
+}

@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+* What new skills have you learned?
+  
+* What has been easy?
+  
+* What has been difficult?
+  
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+---
+
+Your response goes here!
+
+1. I have leared basic html elements and how to create a web page with these elements. 
+2. So far so easy I guess that's because I already took an introductory course on Coursera.
+3. The first time I tried to submit answer for a quiz. I finished the html and all worked fine. I just don't understand what code to paste there. Tried serveral times and went to the forums. Lucky for me, someone had the same question and I found the answer. 
+4. just go google or mozilla 
